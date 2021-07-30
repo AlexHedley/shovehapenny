@@ -3,18 +3,18 @@
         {
             "id": 1,
             "name": "",
-            "date": "2021-01-01",
+            "date": "2021-07-29",
             "description": "",
             "players": [
                 {
-                    "name": "",
-                    "score": ,
+                    "name": "Alex",
+                    "score": 6,
                     "winner": true
                 },
                 {
-                    "name": "",
-                    "score": ,
-                    "winner": false
+                    "name": "Jon",
+                    "score": 6,
+                    "winner": true
                 }
             ]
         }
